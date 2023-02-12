@@ -33,3 +33,7 @@ You can use ```npm run build``` to compile and generate the .js source and then,
 * ```PUT: /users/id``` to update an existing user.
 * ```DELETE: /users/id``` to delete an existing user.
 * ```GET: /users/id``` to get an user.
+
+### Finally...
+
+Thanks to [Fazt](https://youtu.be/tGJt93O_DMo) for his dedication and great teachings.
